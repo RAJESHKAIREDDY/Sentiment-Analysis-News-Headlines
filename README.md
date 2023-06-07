@@ -68,7 +68,7 @@ The following results were obtained from the evaluation of different models:
   - F1 Score: 0.81
 
 - Deep Learning:
-  - Accuracy: 99.4%
+  - Accuracy: 96%
   - F1 Score: 0.97
 
 Among the tested models, logistic regression and deep learning showed good performance in classifying positive and negative news headlines, while KNN had the least impact on sentiment analysis.
